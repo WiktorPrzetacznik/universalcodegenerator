@@ -31,3 +31,9 @@ Argumenty obsługiwane przez program są zapisywane w formacie „nazwa=wartoś�
 
 
 Po wykonaniu określonego zadania, rezultat zostanie wyświetlony użytkownikowi.
+
+# Wymagania
+
+Program korzysta z następujących bibliotek zewnętrznych:
+- ANTLR (min. 4.13.0)
+- Google JavaScript Closure Compiler (min. v20220601)
