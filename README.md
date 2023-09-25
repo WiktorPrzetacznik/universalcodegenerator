@@ -1,4 +1,5 @@
-# Projekt i obsługa
+# Universal Code Generator
+## Projekt i obsługa
 „Universal Code Generator” to program służący do konwersji kodu źródłowego w wybranych językach do formatu XML oraz konwersji kodu XML do w pełni działającego kodu źródłowego. Dodatkowo, istnieje możliwość analizy kodu źródłowego w wybranych językach pod względem występowania poszczególnych elementów składowych kodu (zwanych także tokenami). Program ten został stworzony z myślą o ułatwieniu pracy programistom oraz zapewnieniu wygodnego sposobu zarządzania kodem źródłowym. 
 Program posiada trzy funkcje: konwersja plików źródłowych do formatu XML, konwersja plików XML do kodu źródłowego oraz analiza kodu źródłowego pod względem występowania poszczególnych elementów składowych kodu. Poniższa tabela opisuje każdą z tych funkcji.
 
@@ -32,7 +33,7 @@ Argumenty obsługiwane przez program są zapisywane w formacie „nazwa=wartoś�
 
 Po wykonaniu określonego zadania, rezultat zostanie wyświetlony użytkownikowi.
 
-# Wymagania
+## Wymagania
 
 Program korzysta z następujących bibliotek zewnętrznych:
 - ANTLR (min. 4.13.0)
