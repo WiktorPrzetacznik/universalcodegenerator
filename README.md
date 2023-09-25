@@ -15,7 +15,7 @@ Program w wersji 1.0 oferuje wsparcie dla następujących języków programowani
 
 Obsługa programu sprowadza się do korzystania z interfejsu tekstowego. Interfejs tekstowy aplikacji to sposób prezentacji i interakcji użytkownika z programem za pomocą tekstu. Jest to tradycyjna forma interfejsu użytkownika, która nie korzysta z grafiki ani innych elementów wizualnych. Zamiast tego, użytkownik komunikuje się z aplikacją, wprowadzając polecenia i otrzymując odpowiedzi w formie tekstu. Interfejs tekstowy jest zazwyczaj prezentowany w konsoli lub terminalu, gdzie użytkownik może wprowadzać polecenia za pomocą klawiatury. Aplikacje z interfejsem tekstowym często wykorzystują komunikację opartą na linii poleceń (command-line interface, CLI), gdzie użytkownik wpisuje konkretne komendy lub polecenia, a aplikacja reaguje na nie odpowiednimi informacjami lub wykonuje określone działania. Przykład interakcji z programem jest przedstawiony na poniższym rysunku.
 
-![image](https://github.com/WiktorPrzetacznik/universalcodegenerator/blob/main/image.gif)
+![image](https://github.com/WiktorPrzetacznik/universalcodegenerator/blob/master/image.jpg)
 
 Argumenty obsługiwane przez program są zapisywane w formacie „nazwa=wartość”. Aktualnie wspierane argumenty, które możemy przekazać aplikacji to:
 
